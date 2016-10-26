@@ -300,14 +300,14 @@ th{
 
 .t_head{
   border: none;
-  padding: 70px 0px ;
+  padding: 35px 0px ;
   margin-top: 100px;
   text-align: center;
   background: #034677;
   color: #fff;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 12pt;
+  font-size: 10pt;
   font-weight: 100;
   font-family: 'Raleway', sans-serif;
 }
@@ -332,8 +332,15 @@ td{
   /*background-color: #f7f7f7;*/
   padding: 5px 0px;
   color: #878787;
-
+  text-align: center;
 }
+
+.right{
+  text-align: left;
+  margin-left: 40px;
+}
+
+
 
 .bold{
   background-color: #97dba6;
@@ -506,6 +513,7 @@ background-color: #4DC6E2;
 letter-spacing: 1px;
 color: #fff;
 font-family: 'Raleway', sans-serif;
+font-size: 10pt;
 text-transform: uppercase;
 padding: 10px 0px ;
 text-align: center;
@@ -517,7 +525,6 @@ text-align: center;
 }
 
 .inside{
-  padding: 0px 10px;
   text-align: center;
   color: #666;
 }
@@ -537,7 +544,7 @@ background-color: #24a8d1;
 
 li{
   list-style-type: none;
-  font-size: 8pt;
+  font-size: 10pt;
   font-family: Helvetica;
 }
 
@@ -550,6 +557,10 @@ li{
    background-color: #034677;
 }
 
-b{
-  color: #444;
+#white{
+  background-color: white;
+}
+
+.justify{
+text-align: justify;
 }
