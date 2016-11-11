@@ -478,6 +478,14 @@ span{
   box-shadow: 0px 6px 25px -2px rgba(0,0,0,0.09);
 }
 
+.curso{
+   padding: 25px 10px ;
+  height: 80px;
+  -webkit-box-shadow: 0px 6px 25px -2px rgba(0,0,0,0.09);
+  -moz-box-shadow: 0px 6px 25px -2px rgba(0,0,0,0.09);
+  box-shadow: 0px 6px 25px -2px rgba(0,0,0,0.09);
+}
+
 .one{
   background-color: #7fc394;
 }
@@ -490,6 +498,7 @@ span{
 }
 
 iframe{
+  margin-top: 30px;
   border: none;
   width: 100%;
   height: 600px;
@@ -563,4 +572,86 @@ li{
 
 .justify{
 text-align: justify;
+}
+
+.t_center{
+  text-align: center;
+}
+
+/*SAE color*/
+.b_sae{
+  background-color: #b00a25;
+}
+.c_sae{
+  color: #b00a25;
+}
+
+/*COI COLOR */
+.b_coi{
+  background-color: #27a9b4;
+}
+.c_coi{
+  color: #27a9b4;
+}
+
+
+/*NOI COLOR */
+
+.b_noi{
+  background-color: #e27e3e;
+}
+.c_noi {
+  color:  #e27e3e;
+}
+
+/*CAJA COLOR */
+
+.b_caja{
+  background-color: #f3ba42;
+}
+
+.c_caja{
+  color: #f3ba42;
+}
+
+/*BANCO*/
+
+.b_banco{
+  background-color: #60a55d;
+}
+
+.c_banco{
+  color: #60a55d;
+}
+
+
+/*PROD color */
+
+.b_prod{
+background-color:#4a80a0;
+}
+
+.c_prod{
+color: #4a80a0;
+}
+
+.sub{
+  font-size: 13pt;
+}
+
+.rect{
+  padding: 18px 10px; 
+  letter-spacing: 1px;
+  font-weight: 400;
+}
+
+.white{
+  color: #fff;
+}
+
+.servicios{
+  background-color: white;
+  letter-spacing: 5px;
+  color: grey;
+  border-bottom: grey;
 }
