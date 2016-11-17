@@ -232,8 +232,8 @@ h4{
 
 
 p{
-color: #353535;
-font-size: 14pt;
+  font-size: 1em;
+  color: #353535;
 }
 
 /*imagenes membresias */
@@ -580,10 +580,10 @@ text-align: justify;
 
 /*SAE color*/
 .b_sae{
-  background-color: #b00a25;
+  background-color: #cb0121;
 }
 .c_sae{
-  color: #b00a25;
+  color: #cb0121;
 }
 
 /*COI COLOR */
@@ -654,4 +654,63 @@ color: #4a80a0;
   letter-spacing: 5px;
   color: grey;
   border-bottom: grey;
+}
+
+
+.individual{
+  height: 200px;
+  /*border: 1px solid #ccc;*/
+  margin: 30px 0px;
+  padding: 10px 0px;
+}
+
+.ind_icon{
+    /*border: 1px solid #ccc;*/
+  float: left;
+  width: 40%;
+}
+
+.ind_txt{
+  float: left;
+  width: 60%;
+}
+
+.ind_im{
+  float: right;
+  margin-right: 20px;
+}
+
+h6{
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #4a80a0;
+}
+
+.quote{
+  float: left;
+  font-style: italic;
+  font-weight: 100;
+  color: #1EAEDB;
+  opacity: 0.7;
+  font-size: 1.5vw;
+  /*background-color: #ccc;*/
+}
+
+.header{
+  /*border: 1px solid #ccC;*/
+  height: 250px;
+  margin-bottom: 50px;
+}
+
+
+.letters{
+  margin: 0px 20px;
+  font-style: italic;
+  font-size: 5.2vw;
+  font-weight: 800;
+  font-family: Century Gothic;
+}
+
+.collage{
+  width: 520px;
 }
