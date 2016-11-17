@@ -382,6 +382,7 @@ td{
 
 .img_product{
   margin-left: 20%;
+  
 }
 
 .ul_product{
@@ -634,6 +635,18 @@ background-color:#4a80a0;
 .c_prod{
 color: #4a80a0;
 }
+
+/*FACTURE color */
+
+.b_facture{
+background-color: #6b2b14;
+}
+
+.c_facture{
+color: #6b2b14;
+}
+
+
 
 .sub{
   font-size: 13pt;
